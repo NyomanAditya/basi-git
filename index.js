@@ -1,1 +1,1 @@
-consol.log(100);
+consol.log("Branch baru");
